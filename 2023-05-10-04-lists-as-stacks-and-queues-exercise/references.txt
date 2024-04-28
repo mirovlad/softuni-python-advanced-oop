@@ -4,5 +4,5 @@ https://softuni.bg/trainings/resources/video/83543/video-10-may-2023-diyan-kalay
 Theory Questionnaire URL
 https://forms.gle/suavrCoXVguFmeDX9
 
-Github
+In-class solutions
 https://github.com/DiyanKalaydzhiev23/Python-Advanced-January-2024
