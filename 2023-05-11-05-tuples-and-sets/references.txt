@@ -3,3 +3,6 @@ https://softuni.bg/trainings/resources/video/83708/video-11-may-2023-ines-kenova
 
 In-class solutions:
 https://pastebin.com/Xi2jAZhQ
+
+Recommended reading for the following lecture:
+https://www.educba.com/multidimensional-array-in-python/
