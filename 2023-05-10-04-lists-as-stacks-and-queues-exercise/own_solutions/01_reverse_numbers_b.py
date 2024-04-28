@@ -1,3 +1,5 @@
+# Own solution from 2023
+
 numbers = input().split()
 # print(f"numbers {numbers}")
 

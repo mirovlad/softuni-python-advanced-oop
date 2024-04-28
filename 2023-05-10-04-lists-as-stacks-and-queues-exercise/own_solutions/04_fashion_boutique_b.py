@@ -1,3 +1,5 @@
+# Own solution from 2023
+
 clothes_stack = list(map(int, input().split()))
 rack_capacity = int(input())
 

@@ -1,3 +1,5 @@
+# Own solution from 2023
+
 # https://judge.softuni.org/Contests/Compete/Index/1831#1
 # Failed tests https://judge.softuni.org/Contests/Compete/Index/1831#2
 

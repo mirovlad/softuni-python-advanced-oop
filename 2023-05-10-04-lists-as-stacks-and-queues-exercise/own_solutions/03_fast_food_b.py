@@ -1,3 +1,4 @@
+# Own solution from 2023
 # First thinking and then popleft()
 
 # https://judge.softuni.org/Contests/Compete/Index/1831#2
