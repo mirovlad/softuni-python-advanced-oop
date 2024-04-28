@@ -1,3 +1,5 @@
+# Own solution from 2023
+
 in_string = input()
 
 in_stack = list(in_string)
