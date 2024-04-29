@@ -2,6 +2,7 @@
 # Empirically found Judge expects the numbers and their counts in the output
 # to be in the order of their appearance in the input.
 # This requirement is not explicitly mentioned in the problem's description
+# Sadly -- it would have been an opportunity to use set() right away
 
 # Tuple to "prevent" changing the input after taking it :P
 numbers = tuple(map(float, input().split()))
