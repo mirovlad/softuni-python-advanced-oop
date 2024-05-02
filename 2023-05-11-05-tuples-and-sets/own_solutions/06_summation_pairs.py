@@ -9,28 +9,22 @@ target = int(input())
 nums = set(x for x in nums if x <= target)
 
 pairs = []
-discarded = set()
 while nums:
     pair = None
     n1 = nums.pop()
-    discarded.add(n1)
-    # Numbers that we tried to add to n1, but didn't add up to the target
+    # To hold the n2 numbers that we try to pair with n1, but didn't give the target
     used2 = set()
     while nums:
         n2 = nums.pop()
         if n1 + n2 == target:
-            pair = (n1, n2)
-            # As numbers are unique, no any other n2 can make n1+n2 = target
+            pairs.append((n1, n2))
+            # As numbers are unique, no any other n2 can make n1+n2 = target, we can break
             break
         else:
-            # Keep this one for later
+            # n2 didn't pair with n1, so keep n2 for further use
             used2.add(n2)
 
-    if pair:
-        pairs.append(pair)
-        discarded.add(pair[1])
-
-    # Recover the numbers that we can still use
+    # Recover the n2-s that we can still use
     nums = nums.union(used2)
 
 for pair in pairs:
