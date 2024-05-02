@@ -1,5 +1,3 @@
-from collections import deque
-
 # *Unique* integers!
 nums = map(int, input().split())
 target = int(input())
