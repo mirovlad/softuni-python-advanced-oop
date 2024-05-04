@@ -1,0 +1,11 @@
+Video
+https://softuni.bg/trainings/resources/video/83789/video-12-may-2023-diyan-kalaydzhiev-python-advanced-may-2023/4106
+
+Theory questionnaire
+https://forms.gle/DWcw7BteHnXYj6i87
+
+In-class solutions
+https://github.com/DiyanKalaydzhiev23/Python-Advanced-January-2024
+
+Judge
+https://judge.softuni.org/Contests/1833
