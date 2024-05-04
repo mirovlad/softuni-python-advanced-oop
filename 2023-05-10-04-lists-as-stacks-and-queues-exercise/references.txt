@@ -6,3 +6,6 @@ https://forms.gle/suavrCoXVguFmeDX9
 
 In-class solutions
 https://github.com/DiyanKalaydzhiev23/Python-Advanced-January-2024
+
+Judge:
+https://judge.softuni.org/Contests/1831
