@@ -1,0 +1,8 @@
+Video
+https://softuni.bg/trainings/resources/video/83840/video-15-may-2023-diyan-kalaydzhiev-python-advanced-may-2023/4106
+
+In-class solutions
+https://github.com/DiyanKalaydzhiev23/Python-Advanced-January-2024
+
+Judge
+https://judge.softuni.org/Contests/3159
