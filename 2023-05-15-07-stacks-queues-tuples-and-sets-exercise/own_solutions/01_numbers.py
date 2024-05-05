@@ -1,4 +1,4 @@
-# Not very happy with this soltution
+# Not very happy with this solution
 # But not happier with the in-class solution neither :P
 
 s1 = set(map(int, input().split()))
