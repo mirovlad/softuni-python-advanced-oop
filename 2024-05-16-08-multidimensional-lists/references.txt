@@ -1,3 +1,5 @@
 Video
 https://softuni.bg/trainings/resources/video/83863/video-16-may-2023-ines-kenova-python-advanced-may-2023/4106
 
+Judge
+https://judge.softuni.org/Contests/1834
