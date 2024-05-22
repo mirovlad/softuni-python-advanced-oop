@@ -29,14 +29,6 @@ def get_shifted_pos(pos, shift):
     return pos[0] + shift[0], pos[1] + shift[1]
 
 
-def parse_move(args):
-    move(args[1], int(args[2]))
-
-
-def parse_shoot(args):
-    shoot(args[1])
-
-
 # Moves the actor only if empty blocks are on the way to the pos (no jumps over obstacles)
 def move_deprecated(shift, steps):
     # print(f"OK move({shift}, {steps})")
