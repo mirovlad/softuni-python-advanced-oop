@@ -6,3 +6,6 @@ https://github.com/InesIvanova/Dev.BG-seminar
 
 Flask vs Django
 https://softuni.bg/trainings/3310/flask-easy-learning-curve-powerful-applications
+
+Judge:
+https://judge.softuni.org/Contests/1838
